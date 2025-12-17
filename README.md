@@ -73,4 +73,6 @@ RegisterNumber:25009039
 
 
 **RESULTS**
+
+
 Thus the Synchronous 4 bit Up counter is implemeted and verified.

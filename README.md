@@ -64,6 +64,7 @@ RegisterNumber:25009039
 <img width="1919" height="961" alt="11expupcounterwave" src="https://github.com/user-attachments/assets/6de42d7b-6eab-48c5-802c-e676fa08c7a9" />
 
 **TRUTH TABLE**
+
 ![SYNCTRUTHTABLE](https://github.com/user-attachments/assets/dbe9c2fa-d735-4473-9ae5-b361b5e5ef1f)
 
 
